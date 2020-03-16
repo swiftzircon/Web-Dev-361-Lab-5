@@ -5,7 +5,7 @@ html {
 h1,h2,h3,p {
   text-align: center;
   color:white;
-  font-family: "Consolas","Kanit","Lucida Sans Unicode"; 
+  font-family: "Kanit","Lucida Sans Unicode"; 
 }
 td.definition_column{
   float: right;	
