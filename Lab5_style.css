@@ -1,0 +1,53 @@
+html {
+  background: url("background.jpg");
+  background-size: cover;
+}
+h1,h2,h3,p {
+  text-align: center;
+  color:white;
+  font-family: "Consolas","Kanit","Lucida Sans Unicode"; 
+}
+td.definition_column{
+  float: right;	
+  border: solid;
+  border-color: white;	
+  border-radius: 1em;
+  background-color: black;
+}
+td.select{
+  border: solid;
+  border-color: white;	
+  border-radius: 1em;
+  background-color: black;
+}
+img{
+  border-radius: 1em;
+  float: right;
+}
+img.spacer{
+  width: 5em;
+  height: 5em;
+}
+table.main{
+  margin: 5em;
+  margin-left:auto; 
+  margin-right:auto;
+  background: url("shiny.gif");
+  text-align: center;
+  border-radius: 1em;
+  padding:1em;
+  border: solid;
+  border-color: white;
+}
+h1.jupiter,p.jupiter {
+  color:orange;
+}
+h1.saturn,p.saturn {
+  color:yellow;
+}
+h1.neptune,p.neptune {
+  color:cyan;
+}
+h1.venus,p.venus{
+  color:red;
+}
